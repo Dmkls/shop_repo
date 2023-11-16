@@ -1,1 +1,3 @@
-Hello my friend
+Hello my friend!
+
+Hi! Hi!
